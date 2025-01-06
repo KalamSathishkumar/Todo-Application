@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/960x0.jpg?height=474&width=711&fit=bounds");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container{
+    box-shadow: 10px 10px 20px black;
+}
